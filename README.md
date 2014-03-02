@@ -1,5 +1,10 @@
 [![Build Status](https://secure.travis-ci.org/pyromaniac/mongoid_orderable.png)](http://travis-ci.org/pyromaniac/mongoid_orderable)
 
+# Forked from https://github.com/pyromaniac/mongoid_orderable to replace the metadata methods by __metadata ^^
+
+* That prevented embedded document from being saved
+
+
 # What?
 
 Mongoid::Orderable is a ordered list implementation for your mongoid models.
